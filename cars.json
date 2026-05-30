@@ -137,7 +137,7 @@
   {
     "id": 16,
     "name": "Tata Tigor EV",
-    "mileage": 4.0,
+    "mileage": 4.5,
     "safety_ratings": 4.1,
     "price": 11.5,
     "fuel": "EV",
@@ -147,7 +147,7 @@
   {
     "id": 17,
     "name": "MG ZS EV",
-    "mileage": 4.0,
+    "mileage": 4.5,
     "safety_ratings": 4.8,
     "price": 20.99,
     "fuel": "EV",
@@ -157,7 +157,7 @@
   {
     "id": 18,
     "name": "Hyundai Kona EV",
-    "mileage": 4.0,
+    "mileage": 4.5,
     "safety_ratings": 4.9,
     "price": 24.0,
     "fuel": "EV",
@@ -167,7 +167,7 @@
   {
     "id": 19,
     "name": "Tata Tiago EV",
-    "mileage": 4.0,
+    "mileage": 4.5,
     "safety_ratings": 4.0,
     "price": 12.5,
     "fuel": "EV",
