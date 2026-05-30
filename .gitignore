@@ -1,0 +1,10 @@
+
+node_modules/
+build/
+dist/
+
+__pycache__/
+
+req.txt
+fsck.txt
+recovered_fixed.mp4

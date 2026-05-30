@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "name": "Tata Nexon",
+    "mileage": 4.2,
+    "safety_ratings": 4.8,
+    "price": 13.99,
+    "fuel": "Petrol",
+    "variant": "XZ"
+  },
+  {
+    "id": 2,
+    "name": "Maruti Swift",
+    "mileage": 4.9,
+    "safety_ratings": 4.0,
+    "price": 7.5,
+    "fuel": "Petrol",
+    "variant": "ZXi+"
+  },
+  {
+    "id": 3,
+    "name": "Hyundai Creta",
+    "mileage": 4.04,
+    "safety_ratings": 4.2,
+    "price": 14.5,
+    "fuel": "Petrol",
+    "variant": "SX(O)"
+  },
+  {
+    "id": 4,
+    "name": "Mahindra Thar",
+    "mileage": 3.14,
+    "safety_ratings": 3.4,
+    "price": 14.25,
+    "fuel": "Petrol",
+    "variant": "LX(O)"
+  },
+  {
+    "id": 5,
+    "name": "Kia Seltos",
+    "mileage": 3.52,
+    "safety_ratings": 4.7,
+    "price": 15.99,
+    "fuel": "Petrol",
+    "variant": "HTX"
+  },
+  {
+    "id": 6,
+    "name": "Maruti Dzire",
+    "mileage": 4.68,
+    "safety_ratings": 3.6,
+    "price": 9.2,
+    "fuel": "Petrol",
+    "variant": "ZXi+"
+  },
+  {
+    "id": 7,
+    "name": "Tata Harrier",
+    "mileage": 3.42,
+    "safety_ratings": 4.9,
+    "price": 17.59,
+    "fuel": "Diesel",
+    "variant": "XTA"
+  },
+  {
+    "id": 8,
+    "name": "Mahindra XUV700",
+    "mileage": 3.28,
+    "safety_ratings": 4.3,
+    "price": 17.69,
+    "fuel": "Diesel",
+    "variant": "AX7"
+  },
+  {
+    "id": 9,
+    "name": "Toyota Innova Crysta",
+    "mileage": 2.84,
+    "safety_ratings": 4.1,
+    "price": 20.5,
+    "fuel": "Diesel",
+    "variant": "ZX"
+  },
+  {
+    "id": 10,
+    "name": "Maruti Baleno",
+    "mileage": 4.46,
+    "safety_ratings": 4.0,
+    "price": 8.3,
+    "fuel": "Petrol",
+    "variant": "Alpha"
+  },
+  {
+    "id": 11,
+    "name": "Hyundai Venue",
+    "mileage": 3.7,
+    "safety_ratings": 3.8,
+    "price": 10.6,
+    "fuel": "Petrol",
+    "variant": "SX"
+  },
+  {
+    "id": 12,
+    "name": "Tata Altroz",
+    "mileage": 3.84,
+    "safety_ratings": 4.9,
+    "price": 9.5,
+    "fuel": "Petrol",
+    "variant": "XZ"
+  },
+  {
+    "id": 13,
+    "name": "MG Hector",
+    "mileage": 3.36,
+    "safety_ratings": 4.6,
+    "price": 16.0,
+    "fuel": "Petrol",
+    "variant": "Sharp"
+  },
+  {
+    "id": 14,
+    "name": "Tata Tiago",
+    "mileage": 4.74,
+    "safety_ratings": 4.2,
+    "price": 6.5,
+    "fuel": "Petrol",
+    "variant": "XZA+"
+  },
+  {
+    "id": 15,
+    "name": "Mahindra Bolero",
+    "mileage": 3.62,
+    "safety_ratings": 3.5,
+    "price": 8.4,
+    "fuel": "Diesel",
+    "variant": "P4"
+  },
+  {
+    "id": 16,
+    "name": "Tata Tigor EV",
+    "mileage": 4.0,
+    "safety_ratings": 4.1,
+    "price": 11.5,
+    "fuel": "EV",
+    "variant": "XZ",
+    "range": 315
+  },
+  {
+    "id": 17,
+    "name": "MG ZS EV",
+    "mileage": 4.0,
+    "safety_ratings": 4.8,
+    "price": 20.99,
+    "fuel": "EV",
+    "variant": "Exclusive",
+    "range": 419
+  },
+  {
+    "id": 18,
+    "name": "Hyundai Kona EV",
+    "mileage": 4.0,
+    "safety_ratings": 4.9,
+    "price": 24.0,
+    "fuel": "EV",
+    "variant": "Premium",
+    "range": 452
+  },
+  {
+    "id": 19,
+    "name": "Tata Tiago EV",
+    "mileage": 4.0,
+    "safety_ratings": 4.0,
+    "price": 12.5,
+    "fuel": "EV",
+    "variant": "XZ+",
+    "range": 315
+  },
+  {
+    "id": 20,
+    "name": "Mahindra XUV300",
+    "mileage": 3.66,
+    "safety_ratings": 4.3,
+    "price": 13.49,
+    "fuel": "Petrol",
+    "variant": "W8(O)"
+  }
+]
