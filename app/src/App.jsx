@@ -47,7 +47,7 @@ function App() {
       <header className="hero">
         <div>
           <p className="eyebrow">Car Recommendation AI</p>
-          <h1>Find the best car for your needs</h1>
+          <h1>Shortlist the best car for your needs</h1>
         </div>
       </header>
 
